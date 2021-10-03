@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822961970389",
+    "project_id": "datakuy-auth-d0adf",
+    "storage_bucket": "datakuy-auth-d0adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822961970389:android:0306000a80ef86fb9a565c",
+        "android_client_info": {
+          "package_name": "com.example.datakuy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822961970389-ef5691kg0tjilf49ia9q1l069gv076pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGN4O5MJgk8nPlaOKwctdV0Mae02in5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822961970389-ef5691kg0tjilf49ia9q1l069gv076pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
